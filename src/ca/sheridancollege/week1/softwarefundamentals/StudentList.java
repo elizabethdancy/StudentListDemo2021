@@ -3,7 +3,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  * This class creates a list of students
- * @author Liz Dancy, May 20 2021
+ * @author Liz Dancy, May 21 2021
  */
 public class StudentList 
 {
