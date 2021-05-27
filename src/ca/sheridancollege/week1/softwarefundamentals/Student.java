@@ -3,7 +3,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  * This class models students
- * @author Liz Dancy, May 2021 
+ * @author Liz Dancy, May 26 2021 
  */
 public class Student 
 {
